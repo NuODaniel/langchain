@@ -147,6 +147,7 @@ wandb/
 
 *.pkl
 *.bin
+*.db
 
 # integration test artifacts
 data_map*
